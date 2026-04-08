@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **A software for a healthcare company(dental clinic)**
 
-- 🌱 I’m currently learning **Aws and cyberSecurity**
+- 🌱 I’m currently learning **Agentic Orchestration**
 
 - 👯 I’m looking to collaborate on **Secure and scallable projects**
 
-- 🤝 I’m looking for help with **CyberSecurity**
+- 🤝 I’m looking for help with **CyberSecurity and Agents**
 
 - 💬 Ask me about **javaScript**
 
